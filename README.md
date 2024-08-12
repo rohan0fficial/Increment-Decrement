@@ -1,7 +1,7 @@
 Increment-Decrement App 
 
 
-this app is built by React.js
+this app is built using React.js
 
 
 
